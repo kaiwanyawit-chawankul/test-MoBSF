@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">test-mobsf</string>
+    <string name="title_activity_main">test-mobsf</string>
+    <string name="package_name">org.jobjingjo.mobsf</string>
+    <string name="custom_url_scheme">org.jobjingjo.mobsf</string>
+</resources>
